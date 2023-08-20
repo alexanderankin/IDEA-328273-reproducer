@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>java-code</module>
+        <!-- todo find a way to auto-import this one, as it is an .iml for now -->
+        <!--<module>python-code</module>-->
     </modules>
 
     <properties>
